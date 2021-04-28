@@ -1,7 +1,8 @@
 ## CLUSTER1
 
 # Container
-export IMG_VERSION=6.0.12-49
+#export IMG_VERSION=5.2.2-24
+export IMG_VERSION=6.0.20-66
 
 # Misc
 export BIN_DIR=/opt/redislabs/bin
@@ -17,6 +18,7 @@ export PASSWD=redis
 # Network
 export NET_NAME=rs-net
 export NET_CIDR=172.1.0.0/24
+
 
 # Storage
 export PATH_STORAGE=/var/opt/redislabs/persist
