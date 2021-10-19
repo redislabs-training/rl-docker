@@ -2,7 +2,7 @@
 
 # Container
 #export IMG_VERSION=5.2.2-24
-export IMG_VERSION=6.0.20-66
+export IMG_VERSION=6.2.4-54
 
 # Misc
 export BIN_DIR=/opt/redislabs/bin
